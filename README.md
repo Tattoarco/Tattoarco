@@ -3,3 +3,8 @@
 <p><em>Estudent Software Enginner at <a href="https://www.fumc.edu.co/">Fundación universitaria Maria Cano</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </br>Technology in Software Analysis and Development at <a href="https://www.sena.edu.co/es-co/Paginas/default.aspx">Servicio Nacionar de Aprendizaje</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
+
+### About me
+### My GitHub Stats
+
+![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=L1cardo&show_icons=true)
