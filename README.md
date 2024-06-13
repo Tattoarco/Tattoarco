@@ -9,4 +9,4 @@
 ### My GitHub Stats
 ![Tatiana's github stats](https://github-readme-stats.vercel.app/api?username=Tattoarco&show_icons=true&theme=material-palenight)
 ### Lenguages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tattoarco&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tattoarco)
